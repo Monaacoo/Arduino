@@ -1,4 +1,4 @@
-from pyfirmata2 import Arduino, OUTPUT, util
+from pyfirmata2 import Arduino, PWM, util
 import random
 
 PORTA = Arduino.AUTODETECT
